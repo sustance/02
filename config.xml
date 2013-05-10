@@ -5,7 +5,7 @@
         id        = "com.phonegap.linger"
         versionCode="10" 
         version   = "1.0.0">
-      <name>Lingyi</name>
+      <name>Linger</name>
     <description>
         Linger
     </description>
